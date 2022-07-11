@@ -7,5 +7,5 @@ first the deposits
 Checking Balance
 
 
-![](images/contractbalance.JPG)
+![](images/contractbalance1.JPG)
 
