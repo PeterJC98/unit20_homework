@@ -9,12 +9,12 @@ Checking Balance
 
 ![](images/contractbalance1.JPG)
 
-first withdraw 10eth to account2
+first withdraw 10eth account2
 
 
 ![](images/firstwithdraw.JPG)
 
 
-Second withdraw 5eth to account 1
+Second withdraw 5eth account 1
 
 ![](images/secondwithdraw.JPG)
