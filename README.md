@@ -4,7 +4,8 @@ first the deposits
 ![](images/deposit10.JPG)
 ![](images/deposit5.JPG)
 Checking Balance
-![](balance.JPG)
+![](contractbalance.JPG)
+
 Withdraws
 ![](images/withdraw2successful.png)
 ![](images/withdraw10eth.png)
