@@ -6,7 +6,7 @@ first the deposits
 Checking Balance
 ![](balance.JPG)
 Withdraws
-![](withdraw2successful.png)
-![](withdraw10eth.png)
-![](withdraw5eth.png)
-![](withdrawsuccessful.png)
+![](images/withdraw2successful.png)
+![](images/withdraw10eth.png)
+![](images/withdraw5eth.png)
+![](images/withdrawsuccessful.png)
