@@ -9,3 +9,7 @@ Checking Balance
 
 ![](images/contractbalance1.JPG)
 
+first withdraw 10eth to account2
+
+
+![](images/firstwithdraw.JPG)
