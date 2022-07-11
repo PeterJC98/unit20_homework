@@ -7,8 +7,3 @@ first the deposits
 Checking Balance
 ![](contractbalance.JPG)
 
-Withdraws
-![](images/withdraw2successful.png)
-![](images/withdraw10eth.png)
-![](images/withdraw5eth.png)
-![](images/withdrawsuccessful.png)
